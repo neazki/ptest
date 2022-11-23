@@ -7,6 +7,6 @@
 		<title>Document</title>
 	</head>
 	<body>
-    	echo '<h1>index.html page..?</h1>';
+    	<?php echo '<h1>index.html page..?</h1>'; ?>
 	</body>
 </html>
